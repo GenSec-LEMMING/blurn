@@ -2023,6 +2023,7 @@ cast = function()
                             end for
                         end if
                         okd = null
+			okd2 = null
                         if rorl == 1 then
                             pts = r.device_ports(r.local_ip)
                             okd2 = r.public_ip
