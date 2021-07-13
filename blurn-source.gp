@@ -13,9 +13,9 @@ ftpok = false
 adr = null
 port = null
 
-//p = "5151"
-//h = user_input("|:>")
-//if h != p then exit
+//p = "2689609cb915e75b1c404f4ae693e7ad" //md5 encrypted
+//h = user_input("|:>", 1)
+//if md5(h) != p then exit
 
 if active_user == "root" then
     mP = "/root/kit/resources"
