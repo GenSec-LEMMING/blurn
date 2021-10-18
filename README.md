@@ -11,4 +11,4 @@ Target IP, the IP of the system you're attacking from, and screenshots will be h
 A list of any other functions you've used after starting a fresh instance of blurn will also help, as will a list of open programs.
 Every step you document that led to your particular problem will go a long way towards successful troubleshooting :D
 
-You can find me at the GenSec Discord server - Ask Deckard for an invite in the main GH Discord server if you need one. Email is only a last resort, please.
+You can find me at the GenSec Discord server - Ask Deckard for an invite in the main GH Discord server if you need one. Email is only a last resort unless you encounter a serious bug and can't find a workaround. Thanks!
